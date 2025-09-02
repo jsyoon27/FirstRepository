@@ -1,1 +1,2 @@
-hard feature1 onemore
+stop feature1
+
